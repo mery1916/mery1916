@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mery1916
-- 👀 I’m interested in Web development, MERN , React Native
-- 🌱 I’m currently learning different Web applications
+- 👀 I’m interested in Web development, MERN , React
+- 🌱 I’m currently working on different Web applications
 - 💞️ I’m  Tech Enthusiast & Creative Thinker seeking collaborative Opportunities
 - 📫 How to reach me https://www.etsubeventplanner.com
 - ⚡ Fun fact: I'm a Code Dreamer!
